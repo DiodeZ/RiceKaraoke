@@ -4,6 +4,9 @@ RiceKaraoke JavaScript karaoke engine
 Copyright (c) 2005 and onward sk89q <http://sk89q.therisenrealm.com>
 Licensed under the GNU General Public License v3
 
+Demo
+https://www.sk89q.com/playground/ricekaraoke/?
+
 Introduction
 ------------
 
